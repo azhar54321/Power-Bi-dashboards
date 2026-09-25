@@ -14,15 +14,8 @@ The dashboard was built using the following tools and technologies:
 •	📝 Data Modeling – Relationships established among tables <br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
-Source: Ski-resort-stats.com & NASA Earth Observations. 
 
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
-
-
-### 5.	Features / Highlights
+### 4.	Features / Highlights
 The best dashboard explanation format. <br>
 •	Business problem <br>
 •	Goal of the dashboard <br>
